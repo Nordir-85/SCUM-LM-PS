@@ -3,42 +3,54 @@
 		{
 			"Rarity": "Abundant",
 			"Ids": [
-				"ItemLootTreeNodes.Military.Weapons.Handguns"
+				"ItemLootTreeNodes.Police.Weapons.Handguns.M1911s",
+				"ItemLootTreeNodes.Police.Weapons.Weapon_PeaceKeeper38"
 			]
 		},
 		{
 			"Rarity": "Common",
 			"Ids": [
-				"ItemLootTreeNodes.Military.Weapons.SMGs"
+				"ItemLootTreeNodes.Police.Weapons.Handguns.M9s",
+				"ItemLootTreeNodes.Police.Weapons.Handguns.Weapon_Block21",
+				"ItemLootTreeNodes.Police.Weapons.Shotguns.Weapon_590A11",
+				"ItemLootTreeNodes.Police.Weapons.Shotguns.Weapon_SDASS"
 			]
 		},
 		{
 			"Rarity": "Uncommon",
 			"Ids": [
-				"ItemLootTreeNodes.Military.Weapons.AssaultRifles",
-				"ItemLootTreeNodes.Military.Weapons.LMGs"
+				"ItemLootTreeNodes.Police.Weapons.Handguns.Weapon_HS9",
+				"ItemLootTreeNodes.Police.Weapons.Handguns.Weapon_SF19",
+				"ItemLootTreeNodes.Police.Weapons.SMGs.MP5s",
+				"ItemLootTreeNodes.Police.Weapons.SMGs.Weapon_AKS_74U",
+				"ItemLootTreeNodes.Police.Weapons.SMGs.Weapon_MAC10",
+				"ItemLootTreeNodes.Police.Weapons.SMGs.Weapon_UMP45"
 			]
 		},
 		{
 			"Rarity": "Rare",
 			"Ids": [
-				"ItemLootTreeNodes.Military.Weapons.Rifles"
+				"ItemLootTreeNodes.Police.Weapons.Handguns.DEagles",
+				"ItemLootTreeNodes.Police.Weapons.Handguns.Weapon_Serpent357",
+				"ItemLootTreeNodes.Police.Weapons.Handguns.Weapon_Viper_M357"
 			]
 		},
 		{
 			"Rarity": "VeryRare",
 			"Ids": [
-				"ItemLootTreeNodes.Military.Weapons.GrenadeLaunchers"
+				"ItemLootTreeNodes.Police.Weapons.Handguns.Weapon_FlareGun",
+				"ItemLootTreeNodes.Police.Weapons.Handguns.Weapon_Judge44",
+				"ItemLootTreeNodes.Police.Weapons.SMGs.Weapon_AS_Val"
 			]
 		},
 		{
 			"Rarity": "ExtremelyRare",
 			"Ids": [
-				"ItemLootTreeNodes.Military.Weapons.Snipers"
+				"ItemLootTreeNodes.Police.Weapons.AssaultRifles"
 			]
 		}
 	],
-	"Probability": 30,
+	"Probability": 16,
 	"QuantityMin": 1,
 	"QuantityMax": 1,
 	"AllowDuplicates": false,
@@ -46,5 +58,5 @@
 	"InitialDamage": 20,
 	"RandomDamage": 40,
 	"InitialUsage": 0,
-	"RandomUsage": 15
+	"RandomUsage": 0
 }

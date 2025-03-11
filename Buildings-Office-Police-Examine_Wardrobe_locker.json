@@ -1,0 +1,79 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Abundant",
+			"Ids": [
+				"ItemLootTreeNodes.Police.Clothes",
+				"ItemLootTreeNodes.Police.Clothes.Legs.ShortTrousers.Short_Trousers_01_01",
+				"ItemLootTreeNodes.Police.Clothes.Hands.Police_Gloves_01",
+				"ItemLootTreeNodes.Police.Clothes.Head.Police_Mask_01",
+				"ItemLootTreeNodes.Police.Clothes.Torso.Police_Shirt_01",
+				"ItemLootTreeNodes.Police.Clothes.Torso.Police_Sweater_01",
+				"ItemLootTreeNodes.Police.Gear.Armor.Vests.Tactical_Vest_01",
+				"ItemLootTreeNodes.Police.Gear.Backpacks.Police_Backpack_03",
+				"ItemLootTreeNodes.Police.Gear.Tools.1H_Police_Baton"
+			]
+		},
+		{
+			"Rarity": "Common",
+			"Ids": [
+				"ItemLootTreeNodes.Police.Clothes.Torso.Police_Jacket_01",
+				"ItemLootTreeNodes.Military.Gear.Backpacks.Holsters.Knife_Sheath",
+				"ItemLootTreeNodes.Police.Gear.Armor.Helmets.Riot_Helmet_02",
+				"ItemLootTreeNodes.Police.Gear.Armor.Vests.Stabproof_Vest_01_09",
+				"ItemLootTreeNodes.Police.Gear.Backpacks.Police_Backpack_01",
+				"ItemLootTreeNodes.Police.Gear.Backpacks.Police_Handgun_Holster",
+				"ItemLootTreeNodes.Police.Gear.Tools.Knives.1H_Bushman"
+			]
+		},
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Gear.Backpacks.WaistBags",
+				"ItemLootTreeNodes.Police.Gear.Armor.Vests.Police_Bulletproof_Vest_01",
+				"ItemLootTreeNodes.Police.Gear.Backpacks.Police_Backpack_02",
+				"ItemLootTreeNodes.Police.Gear.Tools.Compass"
+			]
+		},
+		{
+			"Rarity": "Rare",
+			"Ids": [
+				"ItemLootTreeNodes.Police.Gear.Armor.Vests.Armor_Police_Vest_01",
+				"ItemLootTreeNodes.Police.Gear.Tools.Weapon_Cleaning_Kit"
+			]
+		},
+		{
+			"Rarity": "VeryRare",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Gear.Armor.Helmets.K6-3_Helmet",
+				"ItemLootTreeNodes.Police.Gear.Tools.GasMasks"
+			]
+		},
+		{
+			"Rarity": "ExtremelyRare",
+			"Ids": [
+				"ItemLootTreeNodes.Police.Gear.Optics.Night_Vision_Googles_01"
+			]
+		}
+	],
+	"Items": [
+		{
+			"Rarity": "Abundant",
+			"Id": "MilitaryPants_09"
+		},
+	],
+	"Probability": 40,
+	"QuantityMin": 1,
+	"QuantityMax": 4,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 0,
+	"RandomDamage": 50,
+	"InitialUsage": 0,
+	"RandomUsage": 50,
+	"PostSpawnActions": [
+		"SetCashAmount_SmallStash",
+		"SetClothesDirtiness_ResidentialClothes",
+		"SetAmmoAmount_SmallStash"
+	]
+}
