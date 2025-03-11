@@ -1,0 +1,9 @@
+{
+	"FixedItems": [
+		"Screwdriver"
+	],
+	"InitialDamage": 50,
+	"RandomDamage": 40,
+	"InitialUsage": 20,
+	"RandomUsage": 60
+}
