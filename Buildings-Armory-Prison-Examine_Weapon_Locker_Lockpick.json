@@ -66,7 +66,9 @@
 				"ItemLootTreeNodes.Military.Gear.Attachments.Rails.DW715_Rail",
 				"ItemLootTreeNodes.Police.Ammo.AP.Boxed.Cal_357_Ammobox_AP",
 				"ItemLootTreeNodes.Police.Ammo.AP.Boxed.Cal_5_45x39mm_AP_Ammobox",
+				"ItemLootTreeNodes.Police.Ammo.Regular.Boxed.Cal_50_AE_Ammobox",
 				"ItemLootTreeNodes.Police.Ammo.Regular.Boxed.Cal_9x39mm_Ammobox",
+				"ItemLootTreeNodes.Police.Ammo.Tracers.Boxed.Cal_50_AE_Ammobox_TR",
 				"ItemLootTreeNodes.Police.Ammo.Tracers.Boxed.Cal_9x39mm_Ammobox_TR",
 				"ItemLootTreeNodes.Police.Gear.Attachments.Sights.WeaponSights_AimPRO",
 				"ItemLootTreeNodes.Police.Gear.Attachments.Sights.WeaponSights_M16A4_FoldingSights",
@@ -78,6 +80,7 @@
 		{
 			"Rarity": "VeryRare",
 			"Ids": [
+				"ItemLootTreeNodes.Police.Ammo.AP.Boxed.Cal_50_AE_AP_Ammobox",
 				"ItemLootTreeNodes.Police.Ammo.AP.Boxed.Cal_9x39mm_AP_Ammobox",
 				"ItemLootTreeNodes.Police.Ammo.Regular.Boxed.Cal_5_56x45mm_Ammobox",
 				"ItemLootTreeNodes.Police.Ammo.Regular.Boxed.Cal_7_62x39mm_Ammobox",
