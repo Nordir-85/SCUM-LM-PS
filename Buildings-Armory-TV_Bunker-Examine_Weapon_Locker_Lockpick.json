@@ -1,11 +1,16 @@
 {
 	"Nodes": [
 		{
-			"Rarity": "ExtremelyRare",
+			"Rarity": "Abundant",
 			"Ids": [
 				"ItemLootTreeNodes.Military.Gear.Backpacks.Assault",
 				"ItemLootTreeNodes.Military.Gear.Explosives.Smoke_Grenade",
 				"ItemLootTreeNodes.Military.Gear.Magazines.Handguns"
+			]
+		},
+		{
+			"Rarity": "Common",
+			"Ids": [
 				"ItemLootTreeNodes.Military.Ammo.12Gauge.Boxed",
 				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed",
 				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed",
@@ -14,6 +19,11 @@
 				"ItemLootTreeNodes.Military.Gear.Backpacks.Hiking.Camo",
 				"ItemLootTreeNodes.Military.Gear.Explosives.Flashbang",
 				"ItemLootTreeNodes.Military.Gear.Magazines.SMGs"
+			]
+		},
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
 				"ItemLootTreeNodes.Military.Gear.Attachments.Bayonets",
 				"ItemLootTreeNodes.Military.Gear.Attachments.Camouflage",
 				"ItemLootTreeNodes.Military.Gear.Attachments.Scopes.WeaponScope_ACOG_01",
@@ -49,12 +59,22 @@
 				"ItemLootTreeNodes.Military.Gear.Magazines.AssaultRifles",
 				"ItemLootTreeNodes.Military.Gear.Optics",
 				"ItemLootTreeNodes.Military.Gear.Tools.Weapon_Cleaning_Kit"
+			]
+		},
+		{
+			"Rarity": "Rare",
+			"Ids": [
 				"ItemLootTreeNodes.Military.Ammo.AP.Boxed",
 				"ItemLootTreeNodes.Military.Gear.Attachments.Scopes.M82s",
 				"ItemLootTreeNodes.Military.Gear.Explosives.Cal_40x46",
 				"ItemLootTreeNodes.Military.Gear.Explosives.Cal_40_PG-7M",
 				"ItemLootTreeNodes.Military.Gear.Magazines.Rifles",
 				"ItemLootTreeNodes.Military.Gear.Magazines.Snipers"
+			]
+		},
+		{
+			"Rarity": "VeryRare",
+			"Ids": [
 				"ItemLootTreeNodes.Military.Gear.Explosives.Claymore",
 				"ItemLootTreeNodes.Military.Gear.Explosives.Mine_01",
 				"ItemLootTreeNodes.Military.Gear.Explosives.PromTrap"
@@ -63,7 +83,7 @@
 	],
 	"Probability": 60,
 	"QuantityMin": 1,
-	"QuantityMax": 5,
+	"QuantityMax": 3,
 	"AllowDuplicates": false,
 	"ShouldFilterItemsByZone": true,
 	"InitialDamage": 10,
