@@ -1,52 +1,50 @@
 {
-	"Subpresets": [
+	"Nodes": [
 		{
-			"Rarity": "Uncommon",
-			"Id": "Special_Packages-Vault-Examine_MP5_Vault_Pack"
+			"Rarity": "Abundant",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.Handguns"
+			]
+		},
+		{
+			"Rarity": "Common",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.SMGs"
+			]
 		},
 		{
 			"Rarity": "Uncommon",
-			"Id": "Special_Packages-Vault-Examine_MP5K_Vault_Pack"
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.AssaultRifles",
+				"ItemLootTreeNodes.Military.Weapons.LMGs"
+			]
 		},
 		{
-			"Rarity": "Uncommon",
-			"Id": "Special_Packages-Vault-Examine_Pistols_Deagle_Judge_Vault_Pack"
+			"Rarity": "Rare",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.Rifles"
+			]
 		},
 		{
-			"Rarity": "Uncommon",
-			"Id": "Special_Packages-Vault-Examine_Pistols_Deagle_Judge_Ammo_Vault_Pack"
+			"Rarity": "VeryRare",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.GrenadeLaunchers"
+			]
 		},
 		{
-			"Rarity": "Uncommon",
-			"Id": "Special_Packages-Vault-Examine_Pistols_Viper_357_Ammo_Vault_Pack"
-		},
-		{
-			"Rarity": "Uncommon",
-			"Id": "Special_Packages-Vault-Examine_Pistols_HS9_Ammo_Vault_Pack"
-		},
-		{
-			"Rarity": "Uncommon",
-			"Id": "Special_Packages-Vault-Examine_Pistols_SF19_Vault_Pack"
-		},
-		{
-			"Rarity": "Uncommon",
-			"Id": "Special_Packages-Vault-Examine_Pistols_SF19_Ammo_Vault_Pack"
-		},
-		{
-			"Rarity": "Uncommon",
-			"Id": "Special_Packages-Vault-Examine_Pistols_Deagle_05_Vault_Pack"
-		},
-		{
-			"Rarity": "Uncommon",
-			"Id": "Special_Packages-Vault-Examine_Pistols_Deagle_05_Ammo_Vault_Pack"
-		},
-		{
-			"Rarity": "Uncommon",
-			"Id": "Special_Packages-Vault-Examine_Pistols_Deagle_357_Vault_Pack"
-		},
-		{
-			"Rarity": "Uncommon",
-			"Id": "Special_Packages-Vault-Examine_Pistols_Deagle_357_Ammo_Vault_Pack"
+			"Rarity": "ExtremelyRare",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.Snipers"
+			]
 		}
-	]
+	],
+	"Probability": 30,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 20,
+	"RandomDamage": 40,
+	"InitialUsage": 0,
+	"RandomUsage": 15
 }
