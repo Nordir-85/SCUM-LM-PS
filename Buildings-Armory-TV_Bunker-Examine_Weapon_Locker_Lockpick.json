@@ -114,16 +114,16 @@
 				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_50BMG_Ammobox_TR",
 				"ItemLootTreeNodes.Military.Gear.Attachments.Scopes.M82s.WeaponScope_M82A1",
 				"ItemLootTreeNodes.Military.Gear.Attachments.Scopes.M82s.WeaponScope_M82A1_Black",
-				"ItemLootTreeNodes.Military.Gear.Attachments.Scopes.M82s.WeaponScope_M82A1_Desert",
-				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.M82Suppressors.WeaponSuppressor_M82A1",
-				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.M82Suppressors.WeaponSuppressor_M82A1_Black",
-				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.M82Suppressors.WeaponSuppressor_M82A1_Desert"
+				"ItemLootTreeNodes.Military.Gear.Attachments.Scopes.M82s.WeaponScope_M82A1_Desert"
 			]
 		},
 		{
 			"Rarity": "ExtremelyRare",
 			"Ids": [
-				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_50BMG_AP_Ammobox"
+				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_50BMG_AP_Ammobox",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.M82Suppressors.WeaponSuppressor_M82A1",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.M82Suppressors.WeaponSuppressor_M82A1_Black",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.M82Suppressors.WeaponSuppressor_M82A1_Desert"
 			]
 		}
 	],
