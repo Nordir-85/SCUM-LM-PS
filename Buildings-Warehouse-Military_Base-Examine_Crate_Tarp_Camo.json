@@ -19,6 +19,10 @@
 				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_9mm_Ammobox",
 				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_45_Ammobox_TR",
 				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_9mm_Ammobox_TR",
+				"ItemLootTreeNodes.Military.Clothes.Legs.GhillieSuitPants.Ghillie_Suit_Pants_01",
+				"ItemLootTreeNodes.Military.Clothes.Legs.GhillieSuitPants.Ghillie_Suit_Pants_03",
+				"ItemLootTreeNodes.Military.Clothes.Torso.GhillieSuitJackets.Ghillie_Suit_Jacket_01",
+				"ItemLootTreeNodes.Military.Clothes.Torso.GhillieSuitJackets.Ghillie_Suit_Jacket_03",
 				"ItemLootTreeNodes.Military.Clothes.Head.Beret_01",
 				"ItemLootTreeNodes.Military.Clothes.Torso.Tactical_Vest_01",
 				"ItemLootTreeNodes.Military.Gear.Armor",
@@ -49,10 +53,6 @@
 				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_9x39mm_Ammobox",
 				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_5_45x39mm_Ammobox_TR",
 				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_9x39mm_Ammobox_TR",
-				"ItemLootTreeNodes.Military.Clothes.Legs.GhillieSuitPants.Ghillie_Suit_Pants_01",
-				"ItemLootTreeNodes.Military.Clothes.Legs.GhillieSuitPants.Ghillie_Suit_Pants_03",
-				"ItemLootTreeNodes.Military.Clothes.Torso.GhillieSuitJackets.Ghillie_Suit_Jacket_01",
-				"ItemLootTreeNodes.Military.Clothes.Torso.GhillieSuitJackets.Ghillie_Suit_Jacket_03",
 				"ItemLootTreeNodes.Military.Gear.Magazines.Rifles.M1_Clip",
 				"ItemLootTreeNodes.Military.Gear.Magazines.Rifles.Magazine_CarbonHunter",
 				"ItemLootTreeNodes.Military.Weapons.Shotguns",
@@ -135,27 +135,27 @@
 			"Id": "Military_Cap_07"
 		},
 		{
-			"Rarity": "Common",
+			"Rarity": "Rare",
 			"Id": "Military_Backpack_01_01"
 		},
 		{
-			"Rarity": "Common",
+			"Rarity": "Rare",
 			"Id": "Military_Backpack_01_05"
 		},
 		{
-			"Rarity": "Common",
+			"Rarity": "Rare",
 			"Id": "Military_Backpack_01_07"
 		},
 		{
-			"Rarity": "Uncommon",
+			"Rarity": "VeryRare",
 			"Id": "Military_Backpack_02_01"
 		},
 		{
-			"Rarity": "Uncommon",
+			"Rarity": "VeryRare",
 			"Id": "Military_Backpack_02_05"
 		},
 		{
-			"Rarity": "Uncommon",
+			"Rarity": "VeryRare",
 			"Id": "Military_Backpack_02_07"
 		},
 		{
