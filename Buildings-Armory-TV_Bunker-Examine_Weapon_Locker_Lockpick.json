@@ -7,6 +7,8 @@
 				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_9mm_Ammobox",
 				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_45_Ammobox_TR",
 				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_9mm_Ammobox_TR",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Rails.MP5_Rail_Short",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Rails.ScopeRail_AK47",
 				"ItemLootTreeNodes.Military.Gear.Explosives.Flashbang",
 				"ItemLootTreeNodes.Military.Gear.Magazines.AssaultRifles",
 				"ItemLootTreeNodes.Military.Gear.Magazines.SMGs"
@@ -25,8 +27,6 @@
 				"ItemLootTreeNodes.Military.Gear.Attachments.Camouflage.WeaponGhillie_Desert",
 				"ItemLootTreeNodes.Military.Gear.Attachments.Camouflage.WeaponGhillie_Woodland",
 				"ItemLootTreeNodes.Military.Gear.Attachments.Flashlights.WeaponFlashlight_AS_Val",
-				"ItemLootTreeNodes.Military.Gear.Attachments.Rails.MP5_Rail_Short",
-				"ItemLootTreeNodes.Military.Gear.Attachments.Rails.ScopeRail_AK47",
 				"ItemLootTreeNodes.Military.Gear.Attachments.Scopes.WeaponScope_ACOG_01",
 				"ItemLootTreeNodes.Military.Gear.Attachments.Scopes.WeaponScope_POSP",
 				"ItemLootTreeNodes.Military.Gear.Attachments.Sights.WeaponSights_M16A4_FoldingSights",
