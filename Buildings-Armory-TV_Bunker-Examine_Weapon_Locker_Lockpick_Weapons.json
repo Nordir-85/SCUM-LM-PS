@@ -1,0 +1,85 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Abundant",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.SMGs"
+			]
+		},
+		{
+			"Rarity": "Common",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.AssaultRifles"
+			]
+		},
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.LMGs",
+				"ItemLootTreeNodes.Military.Weapons.Rifles.Weapon_98k_Karabiner",
+				"ItemLootTreeNodes.Military.Weapons.Rifles.Weapon_CarbonHunter",
+				"ItemLootTreeNodes.Military.Weapons.Rifles.Weapon_M1_Garand",
+				"ItemLootTreeNodes.Military.Weapons.Rifles.Weapon_MosinNagant"
+			]
+		},
+		{
+			"Rarity": "Rare",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.Snipers.Weapon_AWM",
+				"ItemLootTreeNodes.Military.Weapons.Snipers.Weapon_AWP",
+				"ItemLootTreeNodes.Military.Weapons.Snipers.Weapon_SVD_Dragunov"
+			]
+		},
+		{
+			"Rarity": "VeryRare",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.GrenadeLaunchers.Weapon_AT4_HEAT",
+				"ItemLootTreeNodes.Military.Weapons.GrenadeLaunchers.Weapon_VHS_BG"
+			]
+		},
+		{
+			"Rarity": "ExtremelyRare",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.GrenadeLaunchers.Weapon_RPG7",
+				"ItemLootTreeNodes.Military.Weapons.Snipers.M82A1s.Weapon_M82A1",
+				"ItemLootTreeNodes.Military.Weapons.Snipers.M82A1s.WeaponScope_M82A1_Black",
+				"ItemLootTreeNodes.Military.Weapons.Snipers.M82A1s.WeaponScope_M82A1_Desert"
+			]
+		}
+	],
+	"Items": [
+		{
+			"Rarity": "Rare",
+			"Id": "Weapon_AWM_Green"
+		},
+		{
+			"Rarity": "VeryRare",
+			"Id": "Weapon_AWM_Snake"
+		},
+		{
+			"Rarity": "Rare",
+			"Id": "Weapon_AWM_Desert"
+		},
+		{
+			"Rarity": "Rare",
+			"Id": "Weapon_AWP_Green"
+		},
+		{
+			"Rarity": "VeryRare",
+			"Id": "Weapon_AWP_Snake"
+		},
+		{
+			"Rarity": "Rare",
+			"Id": "Weapon_AWP_Desert"
+		}
+	],
+	"Probability": 30,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": false,
+	"InitialDamage": 20,
+	"RandomDamage": 40,
+	"InitialUsage": 0,
+	"RandomUsage": 15
+}

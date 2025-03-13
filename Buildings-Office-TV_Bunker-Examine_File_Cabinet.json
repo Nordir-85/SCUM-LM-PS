@@ -1,0 +1,49 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Abundant",
+			"Ids": [
+				"ItemLootTreeNodes.Office.Items.Misc.Cigarettes",
+				"ItemLootTreeNodes.Office.Items.Misc.Lighter",
+				"ItemLootTreeNodes.Office.Items.Misc.Lockpicks.Bobby_Pin_Pacage",
+				"ItemLootTreeNodes.Office.Items.Misc.Matches",
+				"ItemLootTreeNodes.Office.Items.Misc.Paper",
+				"ItemLootTreeNodes.Office.Items.Misc.Pen"
+			]
+		},
+		{
+			"Rarity": "Common",
+			"Ids": [
+				"ItemLootTreeNodes.Office.Items.Misc.Battery",
+				"ItemLootTreeNodes.Office.Items.Misc.Devices.Mobile_Phone",
+				"ItemLootTreeNodes.Office.Items.Misc.Diary",
+				"ItemLootTreeNodes.Office.Items.Misc.Duct_Tape",
+				"ItemLootTreeNodes.Office.Items.Misc.Glue",
+				"ItemLootTreeNodes.Office.Items.Misc.Screwdrivers"
+			]
+		},
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Office.Items.Misc.Lockpicks.Lockpick_Item",
+				"ItemLootTreeNodes.Office.Other.Money"
+			]
+		},
+		{
+			"Rarity": "Rare",
+			"Ids": [
+				"ItemLootTreeNodes.Office.Items.Misc.Lockpicks.Lockpick_Advanced_Item",
+				"ItemLootTreeNodes.Office.Items.Misc.Locks"
+			]
+		}
+	],
+	"Probability": 20,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 0,
+	"RandomDamage": 20,
+	"InitialUsage": 0,
+	"RandomUsage": 40
+}

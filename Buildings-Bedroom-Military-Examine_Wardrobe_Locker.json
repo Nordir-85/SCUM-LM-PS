@@ -1,0 +1,66 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Common",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Gear.Helmets.Combat.Combat_Helmet_01",
+				"ItemLootTreeNodes.Military.Gear.Helmets.Combat.Combat_Helmet_04",
+				"ItemLootTreeNodes.Military.Gear.Helmets.Military.Military_Helmet_01_05"
+			]
+		}
+	],
+	"Items": [
+		{
+			"Rarity": "Common",
+			"Id": "Bulletproof_Vest_01_04"
+		},
+		{
+			"Rarity": "Common",
+			"Id": "Bulletproof_Vest_01_05"
+		},
+		{
+			"Rarity": "Common",
+			"Id": "Armor_Tactical_Vest_01_04"
+		},
+		{
+			"Rarity": "Common",
+			"Id": "Armor_Tactical_Vest_01_05"
+		},
+		{
+			"Rarity": "Common",
+			"Id": "Tactical_Handgun_Holster_05"
+		},
+		{
+			"Rarity": "Common",
+			"Id": "Tactical_Handgun_Holster_07"
+		},
+		{
+			"Rarity": "Rare",
+			"Id": "Military_Backpack_01_05"
+		},
+		{
+			"Rarity": "Rare",
+			"Id": "Military_Backpack_01_07"
+		},
+		{
+			"Rarity": "VeryRare",
+			"Id": "Military_Backpack_02_05"
+		},
+		{
+			"Rarity": "VeryRare",
+			"Id": "Military_Backpack_02_07"
+		}
+	],
+	"Probability": 25,
+	"QuantityMin": 1,
+	"QuantityMax": 2,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": false,
+	"InitialDamage": 0,
+	"RandomDamage": 20,
+	"InitialUsage": 0,
+	"RandomUsage": 20,
+	"PostSpawnActions": [
+		"SetClothesDirtiness_ResidentialClothes"
+	]
+}
