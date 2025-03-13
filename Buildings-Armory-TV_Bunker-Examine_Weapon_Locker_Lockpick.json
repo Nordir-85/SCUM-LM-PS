@@ -1,0 +1,131 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Abundant",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_45_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_9mm_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_45_Ammobox_TR",
+				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_9mm_Ammobox_TR"
+			]
+		},
+		{
+			"Rarity": "Common",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_45_AP_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_9mm_AP_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_5_45x39mm_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_9x39mm_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_5_45x39mm_Ammobox_TR",
+				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_9x39mm_Ammobox_TR",
+				"ItemLootTreeNodes.Military.Gear.Explosives.Flashbang",
+				"ItemLootTreeNodes.Military.Gear.Magazines.SMGs"
+			]
+		},
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_5_45x39mm_AP_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_9x39mm_AP_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_5_56x45mm_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_7_62x39mm_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_5_56x45mm_Ammobox_TR",
+				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_7_62x39mm_Ammobox_TR",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Bayonets",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Camouflage",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Flashlights.WeaponFlashlight_AS_Val",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Rails.MP5_Rail_Short",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Rails.ScopeRail_AK47",",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Scopes.WeaponScope_ACOG_01",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Scopes.WeaponScope_HuntingScope",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Scopes.WeaponScope_POSP",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Sights.WeaponSights_Deagle_RedDot",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Sights.WeaponSights_M16A4_FoldingSights",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Sights.WeaponSights_OKP-7_Holographic",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Sights.WeaponSights_RedDot_CA401B",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Sights.WeaponSights_V3_Holographic",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Sights.WeaponSights_XPS300_Holographic",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.WeaponSuppressor_12_Gauge",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.WeaponSuppressor_45ACP",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.WeaponSuppressor_5_45x39",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.WeaponSuppressor_AK15",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.WeaponSuppressor_MAC10",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.WeaponSuppressor_MK18",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.WeaponSuppressor_MP5",
+				"ItemLootTreeNodes.Military.Gear.Magazines.AssaultRifles",
+				"ItemLootTreeNodes.Military.Gear.Magazines.Rifles.M1_Clip",
+				"ItemLootTreeNodes.Military.Gear.Magazines.Rifles.Magazine_CarbonHunter"
+			]
+		},
+		{
+			"Rarity": "Rare",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_5_56x45mm_AP_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_7_62x39mm_AP_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_30-06_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_308_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_338_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_7_62x54mmR_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_7_92x57mm_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_30-06_Ammobox_TR",
+				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_308_Ammobox_TR",
+				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_338_Ammobox_TR",
+				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_7_62x54mmR_Ammobox_TR",
+				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_7_92x57mm_Ammobox_TR",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Scopes.WeaponScope_Dragunov",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Scopes.WeaponScope_Spektral_DR",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Scopes.WeaponScope_PU",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Scopes.WeaponScope_Vampyr",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Scopes.WW2s.WeaponScope_ZF39",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Scopes.WW2s.WeaponSights_M1_ScopeAndSights",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Sights.WeaponSights_AimPRO",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Sights.WeaponSights_M1_Experimental",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Sights.WeaponSights_MRO_Red_Dot",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.WeaponSuppressor_308_Black",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.WeaponSuppressor_30_06",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.WeaponSuppressor_338_Black",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.WeaponSuppressor_338_Green",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.WeaponSuppressor_338_Tan",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.WeaponSuppressor_M1891",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.WeaponSuppressor_SVD",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Suppressors.M1Parts.WeaponSuppressor_M1",
+				"ItemLootTreeNodes.Military.Gear.Explosives.Cal_40_PG-7M",
+				"ItemLootTreeNodes.Military.Gear.Explosives.Cal_40x46",
+				"ItemLootTreeNodes.Military.Gear.Explosives.Frag_Grenade",
+				"ItemLootTreeNodes.Military.Gear.Magazines.Snipers"
+			]
+		},
+		{
+			"Rarity": "VeryRare",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_30-06_Ammobox_AP",
+				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_308_Ammobox_AP",
+				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_338_Ammobox_AP",
+				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_7_62x54mmR_AP_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_7_92x57mm_AP_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_50BMG_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_50BMG_Ammobox_TR",
+				"ItemLootTreeNodes.Military.Gear.Attachments.Scopes.M82s",
+				"ItemLootTreeNodes.Military.Gear.Explosives.Claymore",
+				"ItemLootTreeNodes.Military.Gear.Explosives.Mine_01",
+				"ItemLootTreeNodes.Military.Gear.Explosives.PromTrap",
+				"ItemLootTreeNodes.Military.Gear.Optics.Night_Vision_Googles_01"
+			]
+		},
+		{
+			"Rarity": "ExtremelyRare",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_50BMG_AP_Ammobox"
+			]
+		}
+	],
+	"Probability": 40,
+	"QuantityMin": 1,
+	"QuantityMax": 2,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 20,
+	"RandomDamage": 20,
+	"InitialUsage": 0,
+	"RandomUsage": 15
+}

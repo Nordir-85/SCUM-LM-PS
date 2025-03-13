@@ -1,0 +1,41 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Common",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.SMGs"
+			]
+		},
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.AssaultRifles",
+				"ItemLootTreeNodes.Military.Weapons.LMGs"
+			]
+		},
+		{
+			"Rarity": "Rare",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.Rifles.Weapon_98k_Karabiner",
+				"ItemLootTreeNodes.Military.Weapons.Rifles.Weapon_CarbonHunter",
+				"ItemLootTreeNodes.Military.Weapons.Rifles.Weapon_M1_Garand",
+				"ItemLootTreeNodes.Military.Weapons.Rifles.Weapon_MosinNagant"
+			]
+		},
+		{
+			"Rarity": "VeryRare",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Weapons.Other.2H_Katana"
+			]
+		}
+	],
+	"Probability": 20,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 20,
+	"RandomDamage": 40,
+	"InitialUsage": 0,
+	"RandomUsage": 15
+}
