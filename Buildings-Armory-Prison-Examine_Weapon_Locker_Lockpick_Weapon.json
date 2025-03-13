@@ -1,0 +1,64 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Abundant",
+			"Ids": [
+				"ItemLootTreeNodes.Police.Weapons.Handguns.M1911s",
+				"ItemLootTreeNodes.Police.Weapons.Weapon_PeaceKeeper38"
+			]
+		},
+		{
+			"Rarity": "Common",
+			"Ids": [
+				"ItemLootTreeNodes.Police.Weapons.Handguns.M9s",
+				"ItemLootTreeNodes.Police.Weapons.Handguns.Weapon_Block21",
+				"ItemLootTreeNodes.Police.Weapons.Shotguns.Weapon_590A11",
+				"ItemLootTreeNodes.Police.Weapons.Shotguns.Weapon_SDASS"
+			]
+		},
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Police.Weapons.Handguns.Weapon_HS9",
+				"ItemLootTreeNodes.Police.Weapons.Handguns.Weapon_SF19",
+				"ItemLootTreeNodes.Police.Weapons.SMGs.MP5s",
+				"ItemLootTreeNodes.Police.Weapons.SMGs.Weapon_AKS_74U",
+				"ItemLootTreeNodes.Police.Weapons.SMGs.Weapon_MAC10",
+				"ItemLootTreeNodes.Police.Weapons.SMGs.Weapon_UMP45"
+			]
+		},
+		{
+			"Rarity": "Rare",
+			"Ids": [
+				"ItemLootTreeNodes.Police.Weapons.Handguns.DEagles",
+				"ItemLootTreeNodes.Police.Weapons.Handguns.Weapon_Serpent357",
+				"ItemLootTreeNodes.Police.Weapons.Handguns.Weapon_Viper_M357"
+			]
+		},
+		{
+			"Rarity": "VeryRare",
+			"Ids": [
+				"ItemLootTreeNodes.Police.Weapons.Handguns.Weapon_FlareGun",
+				"ItemLootTreeNodes.Police.Weapons.Handguns.Weapon_Judge44",
+				"ItemLootTreeNodes.Police.Weapons.SMGs.Weapon_AS_Val"
+			]
+		},
+		{
+			"Rarity": "ExtremelyRare",
+			"Ids": [
+				"ItemLootTreeNodes.Police.Weapons.AssaultRifles.AKs.Weapon_AK15",
+				"ItemLootTreeNodes.Police.Weapons.AssaultRifles.Weapon_M16A4",
+				"ItemLootTreeNodes.Police.Weapons.AssaultRifles.Weapon_SCAR_L"
+			]
+		}
+	],
+	"Probability": 16,
+	"QuantityMin": 1,
+	"QuantityMax": 1,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 20,
+	"RandomDamage": 40,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}
