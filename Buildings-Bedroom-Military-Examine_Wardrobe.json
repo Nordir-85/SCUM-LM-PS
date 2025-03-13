@@ -1,0 +1,230 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Abundant",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Clothes.Feet.MilitaryBoots",
+				"ItemLootTreeNodes.Military.Clothes.Head.Balaclavas",
+				"ItemLootTreeNodes.Military.Clothes.Head.EarProtection",
+				"ItemLootTreeNodes.Military.Clothes.Head.Goggles.Military_Goggles_01",
+				"ItemLootTreeNodes.Military.Clothes.Head.Goggles.Tactical_Sunglasses_01",
+				"ItemLootTreeNodes.Military.Clothes.Torso.CamoJackets",
+				"ItemLootTreeNodes.Military.Clothes.Torso.Raincoats"
+			]
+		},
+		{
+			"Rarity": "Common",
+			"Ids": [
+				"ItemLootTreeNodes.LivingRoom.Other.Backpacks.WaistBags",
+				"ItemLootTreeNodes.Military.Clothes.Head.Beret_01",
+				"ItemLootTreeNodes.Military.Clothes.Torso.Tactical_Vest_01"
+			]
+		},
+		{
+			"Rarity": "Rare",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Gear.Tools.GasMasks"
+			]
+		},
+		{
+			"Rarity": "Rare",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Gear.Tools.Sewing_kit"
+			]
+		}
+	],
+	"Items": [
+		{
+			"Rarity": "Abundant",
+			"Id": "Marine_Cap_01"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Marine_Cap_05"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Marine_Cap_07"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Military_Cap_01"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Military_Cap_05"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Military_Cap_07"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Military_Beanie_01"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Military_Beanie_05"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Military_Beanie_07"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Military_Boonie_Hat_01"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Military_Boonie_Hat_05"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Military_Boonie_Hat_07"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "MilitaryPants_01"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "MilitaryPants_05"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "MilitaryPants_07"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "MilitaryPants_08"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Military_Shirt_01"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Military_Shirt_05"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Military_Shirt_07"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Open_Finger_Gloves_01"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Open_Finger_Gloves_03"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Open_Finger_Gloves_07"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Shemagh_Scarf_05"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Shemagh_Scarf_06"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Shemagh_Scarf_08"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Short_Trousers_01_02"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Short_Trousers_01_04"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Sleeveless_Camo_Shirt_03"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Sleeveless_Camo_Shirt_05"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Slouch_Camo_Hat_01"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Slouch_Camo_Hat_03"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Slouch_Camo_Hat_05"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Tactical_Gloves_01_01"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Tactical_Gloves_01_03"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Tactical_Gloves_01_05"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Tactical_Gloves_01_07"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Tactical_Handgun_Holster_01"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Tactical_Handgun_Holster_05"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Tactical_Handgun_Holster_07"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Tactical_Jacket_01_01"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Tactical_Jacket_01_05"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Tactical_Jacket_01_07"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Tactical_Sweater_01"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Tactical_Sweater_05"
+		},
+		{
+			"Rarity": "Abundant",
+			"Id": "Tactical_Sweater_07"
+		}
+	],
+	"Probability": 30,
+	"QuantityMin": 1,
+	"QuantityMax": 2,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 0,
+	"RandomDamage": 20,
+	"InitialUsage": 0,
+	"RandomUsage": 20,
+	"PostSpawnActions": [
+		"SetClothesDirtiness_ResidentialClothes"
+	]
+}

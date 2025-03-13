@@ -1,0 +1,72 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Abundant",
+			"Ids": [
+				"ItemLootTreeNodes.Workshop.Crafting.Bolts.Bolts_Package_Box",
+				"ItemLootTreeNodes.Workshop.Crafting.Duct_Tape",
+				"ItemLootTreeNodes.Workshop.Crafting.Hose",
+				"ItemLootTreeNodes.Workshop.Crafting.Lead_Plate",
+				"ItemLootTreeNodes.Workshop.Crafting.Nails.Nails_Package_Box",
+				"ItemLootTreeNodes.Workshop.Crafting.Rope1",
+				"ItemLootTreeNodes.Workshop.Crafting.Rubber_band",
+				"ItemLootTreeNodes.Workshop.Crafting.Rubber_sheet",
+				"ItemLootTreeNodes.Workshop.Tools.Electrical.Fuse_200A",
+				"ItemLootTreeNodes.Workshop.Tools.Electrical.Wire"
+			]
+		},
+		{
+			"Rarity": "Common",
+			"Ids": [
+				"ItemLootTreeNodes.Workshop.Tools.Electrical.Batteries",
+				"ItemLootTreeNodes.Workshop.Tools.Electrical.Wire_Cutters_01",
+				"ItemLootTreeNodes.Workshop.Tools.Hand.Screwdriver_Small",
+				"ItemLootTreeNodes.Workshop.RepairToolkits.General",
+				"ItemLootTreeNodes.Workshop.WorkClothes.Hands.ConstructionGloves",
+				"ItemLootTreeNodes.Workshop.WorkClothes.Head.Goggles.Safety_Goggles",
+				"ItemLootTreeNodes.Workshop.WorkClothes.Head.HardHats"
+			]
+		},
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Workshop.LightsFire.GasLantern",
+				"ItemLootTreeNodes.Workshop.LightsFire.PortableWorkLight",
+				"ItemLootTreeNodes.Workshop.Tools.Hand.1H_Crowbar",
+				"ItemLootTreeNodes.Workshop.Tools.Hand.1H_Wrench_Pipe",
+				"ItemLootTreeNodes.Workshop.Tools.Hand.Saw"
+			]
+		},
+		{
+			"Rarity": "Rare",
+			"Ids": [
+				"ItemLootTreeNodes.Workshop.Crafting.Locks",
+				"ItemLootTreeNodes.Workshop.Tools.Electrical.Electrician_Tools",
+				"ItemLootTreeNodes.Workshop.RepairToolkits.Weapons",
+				"ItemLootTreeNodes.Workshop.WorkClothes.Hands.RubberGloves"
+			]
+		},
+		{
+			"Rarity": "VeryRare",
+			"Ids": [
+				"ItemLootTreeNodes.Workshop.Tools.Electrical.Electrical_Repair_Kit",
+			]
+		},
+		{
+			"Rarity": "ExtremelyRare",
+			"Ids": [
+				"ItemLootTreeNodes.Workshop.Tools.Hand.Screwdriver",
+				"ItemLootTreeNodes.Workshop.Tools.Power"
+			]
+		}
+	],
+	"Probability": 30,
+	"QuantityMin": 1,
+	"QuantityMax": 3,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 0,
+	"RandomDamage": 50,
+	"InitialUsage": 0,
+	"RandomUsage": 50
+}
