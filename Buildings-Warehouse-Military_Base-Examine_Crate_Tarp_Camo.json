@@ -50,6 +50,9 @@
 			"Ids": [
 				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_45_AP_Ammobox",
 				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_9mm_AP_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_357_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_44_Viper_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_50_AE_Ammobox",
 				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_5_45x39mm_Ammobox",
 				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_9x39mm_Ammobox",
 				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_5_45x39mm_Ammobox_TR",
@@ -64,6 +67,9 @@
 			"Rarity": "Rare",
 			"Ids": [
 				"ItemLootTreeNodes.Military.Ammo.12Gauge.Boxed.12_Gauge_Slug_Ammobox",
+				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_357_Ammobox_AP",
+				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_44_Viper_Ammobox_AP",
+				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_50_AE_AP_Ammobox",
 				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_5_45x39mm_AP_Ammobox",
 				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_9x39mm_AP_Ammobox",
 				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_5_56x45mm_Ammobox",
