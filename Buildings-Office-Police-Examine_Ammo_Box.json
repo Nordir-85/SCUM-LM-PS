@@ -3,6 +3,7 @@
 		{
 			"Rarity": "Abundant",
 			"Ids": [
+				"ItemLootTreeNodes.Military.Ammo.Regular.BigStash.12_Gauge_Buckshot",
 				"ItemLootTreeNodes.Military.Ammo.Regular.BigStash.Cal_45",
 				"ItemLootTreeNodes.Military.Ammo.Regular.BigStash.Cal_9mm",
 				"ItemLootTreeNodes.Military.Ammo.Tracers.BigStash.Cal_45_TR",
@@ -22,7 +23,8 @@
 		},
 		{
 			"Rarity": "Uncommon",
-			"Ids": [
+			"Ids": [[
+				"ItemLootTreeNodes.Military.Ammo.Regular.BigStash.12_Gauge_Slug",
 				"ItemLootTreeNodes.Military.Ammo.AP.BigStash.Cal_5_45x39mm_AP",
 				"ItemLootTreeNodes.Military.Ammo.AP.BigStash.Cal_9x39mm_AP",
 				"ItemLootTreeNodes.Military.Ammo.Regular.BigStash.Cal_5_56x45mm",
