@@ -3,6 +3,7 @@
 		{
 			"Rarity": "Common",
 			"Ids": [
+				"ItemLootTreeNodes.Military.Ammo.12Gauge.Boxed.12_Gauge_Buckshot_Ammobox",
 				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_45_Ammobox",
 				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_9mm_Ammobox",
 				"ItemLootTreeNodes.Military.Ammo.Tracers.Boxed.Cal_45_Ammobox_TR",
@@ -33,6 +34,7 @@
 		{
 			"Rarity": "Rare",
 			"Ids": [
+				"ItemLootTreeNodes.Military.Ammo.12Gauge.Boxed.12_Gauge_Slug_Ammobox",
 				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_5_45x39mm_AP_Ammobox",
 				"ItemLootTreeNodes.Military.Ammo.AP.Boxed.Cal_9x39mm_AP_Ammobox",
 				"ItemLootTreeNodes.Military.Ammo.Regular.Boxed.Cal_5_56x45mm_Ammobox",
