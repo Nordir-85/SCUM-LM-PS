@@ -15,21 +15,21 @@
 		{
 			"Rarity": "Common",
 			"Ids": [
-				"ItemLootTreeNodes.LivingRoom.Other.Backpacks.WaistBags",
 				"ItemLootTreeNodes.Military.Clothes.Head.Beret_01",
 				"ItemLootTreeNodes.Military.Clothes.Torso.Tactical_Vest_01"
 			]
 		},
 		{
-			"Rarity": "Rare",
+			"Rarity": "Uncommon",
 			"Ids": [
-				"ItemLootTreeNodes.Military.Gear.Tools.GasMasks"
+				"ItemLootTreeNodes.Military.Gear.Tools.GasMasks",
+				"ItemLootTreeNodes.Military.Gear.Tools.Sewing_kit"
 			]
 		},
 		{
 			"Rarity": "Rare",
 			"Ids": [
-				"ItemLootTreeNodes.Military.Gear.Tools.Sewing_kit"
+				"ItemLootTreeNodes.LivingRoom.Other.Backpacks.WaistBags"
 			]
 		}
 	],
