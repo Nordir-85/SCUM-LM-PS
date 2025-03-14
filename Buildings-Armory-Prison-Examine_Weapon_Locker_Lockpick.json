@@ -63,7 +63,6 @@
 		{
 			"Rarity": "Rare",
 			"Ids": [
-				"ItemLootTreeNodes.Military.Ammo.Regular.BigStash.FlareCartridge",
 				"ItemLootTreeNodes.Military.Gear.Attachments.Rails.DW715_Rail",
 				"ItemLootTreeNodes.Police.Ammo.AP.Boxed.Cal_357_Ammobox_AP",
 				"ItemLootTreeNodes.Police.Ammo.AP.Boxed.Cal_5_45x39mm_AP_Ammobox",
