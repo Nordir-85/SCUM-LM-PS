@@ -1,0 +1,80 @@
+{
+	"Nodes": [
+		{
+			"Rarity": "Abundant",
+			"Ids": [
+				"ItemLootTreeNodes.Police.Ammo.12Gauge.BigStash.12_Gauge_Birdshot_Ammobox",
+				"ItemLootTreeNodes.Police.Ammo.Regular.BigStash.Cal_38",
+				"ItemLootTreeNodes.Police.Ammo.Tracers.BigStash.Cal_38_TR"
+			]
+		},
+		{
+			"Rarity": "Common",
+			"Ids": [
+				"ItemLootTreeNodes.Police.Ammo.12Gauge.BigStash.12_Gauge_Buckshot",
+				"ItemLootTreeNodes.Police.Ammo.AP.BigStash.Cal_38_AP",
+				"ItemLootTreeNodes.Police.Ammo.Regular.BigStash.Cal_45",
+				"ItemLootTreeNodes.Police.Ammo.Regular.BigStash.Cal_9mm",
+				"ItemLootTreeNodes.Police.Ammo.Tracers.BigStash.Cal_45_TR",
+				"ItemLootTreeNodes.Police.Ammo.Tracers.BigStash.Cal_9mm_TR"
+			]
+		},
+		{
+			"Rarity": "Uncommon",
+			"Ids": [
+				"ItemLootTreeNodes.Police.Ammo.12Gauge.BigStash.12_Gauge_Slug",
+				"ItemLootTreeNodes.Police.Ammo.AP.BigStash.Cal_45_AP",
+				"ItemLootTreeNodes.Police.Ammo.AP.BigStash.Cal_9mm_AP",
+				"ItemLootTreeNodes.Police.Ammo.Regular.BigStash.Cal_357_Viper",
+				"ItemLootTreeNodes.Police.Ammo.Regular.BigStash.Cal_5_45x39mm",
+				"ItemLootTreeNodes.Police.Ammo.Tracers.BigStash.Cal_357_Viper_TR",
+				"ItemLootTreeNodes.Police.Ammo.Tracers.BigStash.Cal_5_45x39mm_TR",
+			]
+		},
+		{
+			"Rarity": "Rare",
+			"Ids": [
+				"ItemLootTreeNodes.Military.Ammo.Regular.BigStash.FlareCartridge",
+				"ItemLootTreeNodes.Police.Ammo.AP.BigStash.Cal_357_Viper_AP",
+				"ItemLootTreeNodes.Police.Ammo.AP.BigStash.Cal_5_45x39mm_AP",
+				"ItemLootTreeNodes.Police.Ammo.Regular.BigStash.Cal_44_Viper",
+				"ItemLootTreeNodes.Police.Ammo.Regular.BigStash.Cal_50_AE",
+				"ItemLootTreeNodes.Police.Ammo.Regular.BigStash.Cal_9x39mm",
+				"ItemLootTreeNodes.Police.Ammo.Tracers.BigStash.Cal_44_Viper_TR",
+				"ItemLootTreeNodes.Police.Ammo.Tracers.BigStash.Cal_50_AE_TR",
+				"ItemLootTreeNodes.Police.Ammo.Tracers.BigStash.Cal_9x39mm_TR"
+			]
+		},
+		{
+			"Rarity": "VeryRare",
+			"Ids": [
+				"ItemLootTreeNodes.Police.Ammo.AP.BigStash.Cal_44_Viper_AP",
+				"ItemLootTreeNodes.Police.Ammo.AP.BigStash.Cal_50_AE_AP",
+				"ItemLootTreeNodes.Police.Ammo.AP.BigStash.Cal_9x39mm_AP",
+				"ItemLootTreeNodes.Police.Ammo.Regular.BigStash.Cal_5_56x45mm",
+				"ItemLootTreeNodes.Police.Ammo.Regular.BigStash.Cal_7_62x39mm",
+				"ItemLootTreeNodes.Police.Ammo.Tracers.BigStash.Cal_5_56x45mm_TR",
+				"ItemLootTreeNodes.Police.Ammo.Tracers.BigStash.Cal_7_62x39mm_TR"
+			]
+		},
+		{
+			"Rarity": "ExtremelyRare",
+			"Ids": [
+				"ItemLootTreeNodes.Police.Ammo.AP.BigStash.Cal_5_56x45mm_AP",
+				"ItemLootTreeNodes.Police.Ammo.AP.BigStash.Cal_7_62x39mm_AP"
+			]
+		}
+	],
+	"Probability": 15,
+	"QuantityMin": 1,
+	"QuantityMax": 3,
+	"AllowDuplicates": false,
+	"ShouldFilterItemsByZone": true,
+	"InitialDamage": 00,
+	"RandomDamage": 40,
+	"InitialUsage": 10,
+	"RandomUsage": 40,
+	"PostSpawnActions": [
+		"SetAmmoAmount_BigStash"
+	]
+}
